@@ -6,8 +6,8 @@
 // @description  Automatically selects Yes, Demonstrated, Pass, and Miles responses on demand
 // @author       The Wizard
 // @match        https://learn.amazon.com/tasks/*/*
-// @updateURL    https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/auto-select.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/auto-select.user.js
+// @updateURL    https://github.com/jndaniels/auto-select/raw/refs/heads/main/auto-select.user.js
+// @downloadURL  https://github.com/jndaniels/auto-select/raw/refs/heads/main/auto-select.user.js
 //
 // @grant        GM_registerMenuCommand
 // ==/UserScript==
