@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Auto Select Responses
 // @namespace    https://github.com/YOUR-USERNAME
-// @version      0.0.1
+// @version      0.0.2
 // @description  Automatically selects Yes, Demonstrated, Pass, and Miles responses on demand
 // @author       The Wizard
 // @match        https://learn.amazon.com/tasks/*/*
@@ -11,6 +11,12 @@
 //
 // @grant        GM_registerMenuCommand
 // ==/UserScript==
+
+/* Change log
+9.12.26 - Moved the floating button from Right bottom to left bottom.
+*/
+
+
 
 (function () {
     'use strict';
@@ -289,7 +295,7 @@
         Object.assign(button.style, {
             position: 'fixed',
             bottom: '20px',
-            right: '20px',
+            left: '20px',
             zIndex: '999999',
             padding: '10px 16px',
             background: '#222',
