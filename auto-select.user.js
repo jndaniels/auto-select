@@ -1,10 +1,10 @@
 
 // ==UserScript==
 // @name         Auto Select Responses
-// @namespace    https://github.com/YOUR-USERNAME
-// @version      0.0.2
+// @namespace    https://github.com/jndaniels
+// @version      0.0.3
 // @description  Automatically selects Yes, Demonstrated, Pass, and Miles responses on demand
-// @author       The Wizard
+// @author       Invalid Syntax
 // @match        https://learn.amazon.com/tasks/*/*
 // @updateURL    https://github.com/jndaniels/auto-select/raw/refs/heads/main/auto-select.user.js
 // @downloadURL  https://github.com/jndaniels/auto-select/raw/refs/heads/main/auto-select.user.js
